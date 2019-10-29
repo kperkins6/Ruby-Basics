@@ -1,7 +1,7 @@
 # Ruby-Basics
 Tutorial on programming basic Ruby scripts
 
-Getting Started
+##Getting Started
 Check out the codeacademy course on Ruby Basics: https://www.codecademy.com/learn/learn-ruby
 
 ##Installation:
